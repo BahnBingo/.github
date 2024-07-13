@@ -1,12 +1,6 @@
 ## ich betäube meine sinne
 
-![Bahnbingo banner](bb_Banner.jpeg#banner)
-
-<style>
-img[src$="#banner"] {
-  border-radius: 12px
-}
-</style>
+[![Bahnbingo banner](bb_Banner.jpeg)](https://youtu.be/dQw4w9WgXcQ)
 
 ### Wichtige Repositories
 
